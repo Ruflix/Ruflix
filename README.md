@@ -1,4 +1,6 @@
-## Hi there 👋
+<picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=5086A1FF&center=true&vCenter=true&random=false&width=280&lines=Hi%2CI'm+Ruflix%F0%9F%91%8B">
+</picture>
 
 <!--
 **Ruflix/Ruflix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
